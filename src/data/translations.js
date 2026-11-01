@@ -1,0 +1,172 @@
+export const translations = {
+  en: {
+    // Navigation
+    home: 'Home',
+    menu: 'Menu',
+    about: 'About',
+    gallery: 'Gallery',
+    offers: 'Offers',
+    contact: 'Contact',
+    rewards: 'Rewards Club',
+    waitlist: 'Live Queue',
+    groupOrder: 'Group Order',
+    admin: 'Admin',
+    search: 'Search',
+    wishlist: 'Wishlist',
+    cart: 'Cart',
+    signIn: 'Sign In',
+    bookTable: 'Book Table',
+    myAccount: 'My Account',
+
+    // Hero Section
+    eyebrow: 'FRESH FLAVOURS. BEAUTIFUL MOMENTS.',
+    heroHeadingPrefix: 'Where Every Bite Feels Like',
+    heroHeadingHighlight: 'Home.',
+    heroDescription: 'Discover a world of fresh ingredients, delightful flavours and unforgettable dining experiences at MADHUBAN — crafted with passion, served with love.',
+    exploreMenu: 'Explore Menu',
+    reserveTable: 'Reserve a Table',
+    scanQrDemo: 'Scan QR Demo (Table 05)',
+    madeWithLove: 'Made With Love',
+    heritageRecipe: 'Heritage Recipe',
+    purity: 'Purity',
+    pureA2Ghee: '100% Pure A2 Ghee',
+
+    // Features
+    freshIngredients: 'Fresh Ingredients',
+    freshIngredientsDesc: '100% farm-sourced organic herbs & vegetables',
+    artisanalQuality: 'Artisanal Quality',
+    artisanalQualityDesc: 'Slow-simmered gravies & stone-ground spices',
+    hygienicKitchen: 'Hygienic Kitchen',
+    hygienicKitchenDesc: '5-star audited sanitization protocols',
+    familyFriendly: 'Family Friendly',
+    familyFriendlyDesc: 'Spacious serene botanical seating',
+
+    // Menu & Food
+    exploreOurMenu: 'Explore Our Menu',
+    gastronomicJourney: 'Gastronomic Journey',
+    viewAllCuisines: 'View All 14 Cuisines',
+    handcraftedMasterpieces: 'Handcrafted Masterpieces',
+    signatureDishes: 'Madhuban Signature Dishes',
+    signatureDesc: 'Beloved by generations. Slow-simmered, stone-ground, and prepared with authentic family secret recipes.',
+    bestseller: 'Bestseller',
+    pureVeg: 'Pure Veg',
+    nonVeg: 'Non-Veg',
+    jainAvailable: 'Jain Available',
+    add: 'Add',
+    added: 'Added!',
+    viewFullMenu: 'Explore Complete Digital Menu',
+    allCuisines: 'All Delicacies',
+    sort: 'Sort',
+    allDiets: 'All Diets',
+
+    // Cart & Table Ordering
+    yourFeastCart: 'Your Feast Cart',
+    tableCart: 'Table Cart',
+    orderingForTable: 'Ordering for Table',
+    subtotal: 'Subtotal',
+    gstTax: 'Restaurant GST (5%)',
+    discountSavings: 'Discount Savings',
+    totalAmount: 'Total Amount',
+    confirmOrder: 'Confirm Order',
+    callWaiter: 'Call Waiter',
+    callWaiterSubtitle: 'Request your table captain',
+    splitBill: 'Split Bill',
+    groupOrderingTitle: 'Shared Group Dining Cart',
+
+    // Rewards
+    rewardsTitle: 'Madhuban Royal Rewards Club',
+    pointsBalance: 'Dining Points Balance',
+    membershipTier: 'Membership Tier',
+    redeemRewards: 'Redeem Exclusive Vouchers',
+
+    // Footer & Common
+    stayConnected: 'Stay Connected',
+    diningHours: 'Dining Hours',
+    rightsReserved: 'MADHUBAN Smart Dining. Crafted with passion & farm freshness.'
+  },
+  hi: {
+    // Navigation
+    home: 'होम',
+    menu: 'मेन्यू',
+    about: 'हमारे बारे में',
+    gallery: 'गैलरी',
+    offers: 'ऑफ़र्स',
+    contact: 'संपर्क',
+    rewards: 'रिवॉर्ड्स क्लब',
+    waitlist: 'लाइव कतार',
+    groupOrder: 'ग्रुप ऑर्डर',
+    admin: 'प्रबंधन',
+    search: 'खोजें',
+    wishlist: 'पसंदीदा',
+    cart: 'थाली (कार्ट)',
+    signIn: 'लॉग इन',
+    bookTable: 'टेबल बुक करें',
+    myAccount: 'मेरा खाता',
+
+    // Hero Section
+    eyebrow: 'ताज़ा स्वाद। खूबसूरत लम्हे।',
+    heroHeadingPrefix: 'जहाँ हर निवाला लगे बिल्कुल',
+    heroHeadingHighlight: 'घर जैसा।',
+    heroDescription: 'मधुबन में ताज़ा सामग्री, मनमोहक स्वाद और अविस्मरणीय भोजन अनुभवों की दुनिया का अनुभव करें — जो लगन से तैयार और प्यार से परोसा गया है।',
+    exploreMenu: 'मेन्यू देखें',
+    reserveTable: 'टेबल आरक्षित करें',
+    scanQrDemo: 'क्यूआर डेमो (टेबल 05)',
+    madeWithLove: 'प्यार से निर्मित',
+    heritageRecipe: 'पारंपरिक व्यंजन विधि',
+    purity: 'शुद्धता',
+    pureA2Ghee: '100% शुद्ध A2 देशी घी',
+
+    // Features
+    freshIngredients: 'ताज़ा प्राकृतिक सामग्री',
+    freshIngredientsDesc: '100% खेतों से चुनी गई जैविक जड़ी-बूटियाँ और सब्जियां',
+    artisanalQuality: 'पारंपरिक गुणवत्ता',
+    artisanalQualityDesc: 'धीमी आंच पर पकी तरी और पत्थर पर पिसे मसाले',
+    hygienicKitchen: 'स्वच्छ रसोई',
+    hygienicKitchenDesc: '5-स्टार स्तर की स्वच्छता और सुरक्षा मानक',
+    familyFriendly: 'पारिवारिक परिवेश',
+    familyFriendlyDesc: 'शांत, सुंदर और विशाल प्राकृतिक बैठक',
+
+    // Menu & Food
+    exploreOurMenu: 'हमारा स्वादिष्ट मेन्यू',
+    gastronomicJourney: 'शाही स्वाद यात्रा',
+    viewAllCuisines: 'सभी 14 व्यंजन श्रेणियां',
+    handcraftedMasterpieces: 'कारीगरी के उत्कृष्ट व्यंजन',
+    signatureDishes: 'मधुबन के प्रसिद्ध विशेष व्यंजन',
+    signatureDesc: 'पीढ़ियों से पसंदीदा। धीमी आंच पर पके और पुश्तैनी गुप्त विधियों से तैयार।',
+    bestseller: 'सर्वाधिक लोकप्रिय',
+    pureVeg: 'शुद्ध शाकाहारी',
+    nonVeg: 'मांसाहारी',
+    jainAvailable: 'जैन विकल्प उपलब्ध',
+    add: 'जोड़ें',
+    added: 'जुड़ गया!',
+    viewFullMenu: 'पूरा डिजिटल मेन्यू देखें',
+    allCuisines: 'सभी व्यंजन',
+    sort: 'क्रमबद्ध करें',
+    allDiets: 'सभी आहार',
+
+    // Cart & Table Ordering
+    yourFeastCart: 'आपकी दावत थाली (कार्ट)',
+    tableCart: 'टेबल थाली',
+    orderingForTable: 'टेबल के लिए ऑर्डर:',
+    subtotal: 'उप-योग (Subtotal)',
+    gstTax: 'रेस्टोरेंट जीएसटी (5%)',
+    discountSavings: 'छूट की बचत',
+    totalAmount: 'कुल देय राशि',
+    confirmOrder: 'ऑर्डर पक्का करें',
+    callWaiter: 'वेटर को बुलाएँ',
+    callWaiterSubtitle: 'अपने फ्लोर कैप्टन को सहायता हेतु बुलाएँ',
+    splitBill: 'बिल साझा करें',
+    groupOrderingTitle: 'साझा ग्रुप डाइनिंग कार्ट',
+
+    // Rewards
+    rewardsTitle: 'मधुबन रॉयल रिवॉर्ड्स क्लब',
+    pointsBalance: 'डाइनिंग पॉइंट्स बैलेंस',
+    membershipTier: 'सदस्यता स्तर',
+    redeemRewards: 'विशेष वाउचर भुनाएँ',
+
+    // Footer & Common
+    stayConnected: 'हमसे जुड़े रहें',
+    diningHours: 'भोजन का समय',
+    rightsReserved: 'मधुबन स्मार्ट डाइनिंग। लगन और प्राकृतिक शुद्धता से निर्मित।'
+  }
+};

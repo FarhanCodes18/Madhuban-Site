@@ -1,0 +1,17 @@
+{
+  "short_name": "Madhuban",
+  "name": "MADHUBAN – Where Nature Meets Taste",
+  "description": "Premium Smart Dining & Contactless Table Ordering Platform",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#F7F8F0",
+  "theme_color": "#183B29",
+  "display": "standalone",
+  "orientation": "portrait"
+}
